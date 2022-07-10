@@ -20,3 +20,4 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+![1st Cavalry Division](./images/1stCav.png)
