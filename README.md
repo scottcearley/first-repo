@@ -20,4 +20,13 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+## Images
 ![1st Cavalry Division](./images/1stCav.png)
+
+## Code Examples
+To generate lorem ipsum use special shortcode: `put-your-code-here`
+
+## Sources
+This app is inspired by Rando Kim book „Time of Your Life”
+and Android app tutorial by [@eericon](https://www.eericon.github.io/post/timer-android)
